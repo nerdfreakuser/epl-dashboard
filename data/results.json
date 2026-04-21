@@ -7,8 +7,7 @@
     "losses": 14,
     "pending": 4,
     "accuracy": 12.5,
-    "roi": -63.1,
-    "pnl": -10.1
+    "roi": -63.1
   },
   "results": [
     {
@@ -320,5 +319,348 @@
     "\ud83c\udfdf\ufe0f Manchester United predictions wrong 2 times \u2014 check rating calibration",
     "\ud83c\udfdf\ufe0f Newcastle United predictions wrong 2 times \u2014 check rating calibration"
   ],
-  "lessons_learned": "## \ud83d\udcda Lessons Learned\n\n### Overall Performance (16 picks resolved)\n- Accuracy: **12.5%**\n- P&L: **\u00a3-10.10** (ROI: -63.1%)\n\n### By Confidence Tier\n- **HIGH**: 0.0% (0/5) | P&L: \u00a3-5.00\n- **MEDIUM**: 28.6% (2/7) | P&L: \u00a3-1.10\n- **LOW**: 0.0% (0/4) | P&L: \u00a3-4.00\n\n### By Market\n- **cards**: 0.0% (0/2)\n- **1X2**: 12.5% (1/8)\n- **totals**: 16.7% (1/6)\n\n### Patterns Identified\n- \ud83d\udcca Over goals misses: 5 \u2014 may be overestimating xG conversion\n- \ud83d\udd25 HIGH confidence failures: 5/5 \u2014 recalibration needed\n- \ud83d\ude97 Away team results missed: 6 away wins not predicted\n- \ud83c\udfdf\ufe0f Chelsea predictions wrong 2 times \u2014 check rating calibration\n- \ud83c\udfdf\ufe0f Manchester United predictions wrong 2 times \u2014 check rating calibration\n- \ud83c\udfdf\ufe0f Newcastle United predictions wrong 2 times \u2014 check rating calibration\n\n### Recommendations\n- \ud83d\udd34 Accuracy below 45% \u2014 consider increasing xG weight and reducing actual goals influence\n- \u26a0\ufe0f HIGH confidence tier underperforming \u2014 recalibrate confidence thresholds\n- \ud83d\udcca 1X2 accuracy low \u2014 draws are notoriously hard to predict; consider reducing draw picks"
+  "lessons_learned": "## \ud83d\udcda Lessons Learned\n\n### Overall Performance (16 picks resolved)\n- Accuracy: **12.5%**\n- P&L: **\u00a3-10.10** (ROI: -63.1%)\n\n### By Confidence Tier\n- **HIGH**: 0.0% (0/5) | P&L: \u00a3-5.00\n- **MEDIUM**: 28.6% (2/7) | P&L: \u00a3-1.10\n- **LOW**: 0.0% (0/4) | P&L: \u00a3-4.00\n\n### By Market\n- **cards**: 0.0% (0/2)\n- **1X2**: 12.5% (1/8)\n- **totals**: 16.7% (1/6)\n\n### Patterns Identified\n- \ud83d\udcca Over goals misses: 5 \u2014 may be overestimating xG conversion\n- \ud83d\udd25 HIGH confidence failures: 5/5 \u2014 recalibration needed\n- \ud83d\ude97 Away team results missed: 6 away wins not predicted\n- \ud83c\udfdf\ufe0f Chelsea predictions wrong 2 times \u2014 check rating calibration\n- \ud83c\udfdf\ufe0f Manchester United predictions wrong 2 times \u2014 check rating calibration\n- \ud83c\udfdf\ufe0f Newcastle United predictions wrong 2 times \u2014 check rating calibration\n\n### Recommendations\n- \ud83d\udd34 Accuracy below 45% \u2014 consider increasing xG weight and reducing actual goals influence\n- \u26a0\ufe0f HIGH confidence tier underperforming \u2014 recalibrate confidence thresholds\n- \ud83d\udcca 1X2 accuracy low \u2014 draws are notoriously hard to predict; consider reducing draw picks",
+  "lastUpdated": "2026-04-21T18:53:26.276128",
+  "weeklyAccuracy": [
+    {
+      "week": "GW33",
+      "date": "2026-04-21",
+      "accuracy": 12.5,
+      "picks": 20,
+      "resolved": 16,
+      "wins": 2,
+      "losses": 14,
+      "pending": 4
+    }
+  ],
+  "byMarket": {
+    "cards": {
+      "total": 2,
+      "wins": 0,
+      "accuracy": 0.0
+    },
+    "1X2": {
+      "total": 8,
+      "wins": 1,
+      "accuracy": 12.5
+    },
+    "O/U": {
+      "total": 6,
+      "wins": 1,
+      "accuracy": 16.7
+    }
+  },
+  "byConfidence": {
+    "HIGH": {
+      "total": 5,
+      "wins": 0,
+      "accuracy": 0.0
+    },
+    "MEDIUM": {
+      "total": 7,
+      "wins": 2,
+      "accuracy": 28.6
+    },
+    "LOW": {
+      "total": 4,
+      "wins": 0,
+      "accuracy": 0.0
+    }
+  },
+  "matchResults": {
+    "Manchester City vs Crystal Palace": "Stale fixture in model (pending cleanup)",
+    "Brentford vs Fulham": "0-0",
+    "Newcastle United vs Bournemouth": "1-2",
+    "Nottm Forest vs Burnley": "4-1",
+    "Aston Villa vs Sunderland": "4-3",
+    "Leeds vs Wolverhampton Wanderers": "3-0",
+    "Tottenham vs Brighton": "2-2",
+    "Chelsea vs Manchester United": "0-1",
+    "Everton vs Liverpool": "1-2",
+    "Manchester City vs Arsenal": "2-1",
+    "Crystal Palace vs West Ham": "0-0",
+    "Sunderland vs Nottm Forest": "Pending"
+  },
+  "predictions": [
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "market": "cards",
+      "pick": "Cards Over 3.5",
+      "confidence": "HIGH",
+      "modelProb": 0.6497,
+      "edge": 0.2415,
+      "odds": 2.32,
+      "result": "0-1",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Newcastle United",
+      "away": "Bournemouth",
+      "market": "cards",
+      "pick": "Cards Over 3.5",
+      "confidence": "HIGH",
+      "modelProb": 0.6152,
+      "edge": 0.1914,
+      "odds": 2.23,
+      "result": "1-2",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-19",
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "market": "1X2",
+      "pick": "draw",
+      "confidence": "MEDIUM",
+      "modelProb": 0.395,
+      "edge": 0.141,
+      "odds": 3.95,
+      "result": "2-1",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Tottenham",
+      "away": "Brighton",
+      "market": "1X2",
+      "pick": "draw",
+      "confidence": "MEDIUM",
+      "modelProb": 0.394,
+      "edge": 0.1396,
+      "odds": 3.9,
+      "result": "2-2",
+      "outcome": "win"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-20",
+      "home": "Crystal Palace",
+      "away": "West Ham",
+      "market": "O/U",
+      "pick": "Over 2.5",
+      "confidence": "HIGH",
+      "modelProb": 0.6219,
+      "edge": 0.1206,
+      "odds": 1.91,
+      "result": "0-0",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "market": "1X2",
+      "pick": "draw",
+      "confidence": "MEDIUM",
+      "modelProb": 0.3799,
+      "edge": 0.1315,
+      "odds": 4.0,
+      "result": "4-3",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Brentford",
+      "away": "Fulham",
+      "market": "O/U",
+      "pick": "Over 2.5",
+      "confidence": "HIGH",
+      "modelProb": 0.6462,
+      "edge": 0.1185,
+      "odds": 1.79,
+      "result": "0-0",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-24",
+      "home": "Sunderland",
+      "away": "Nottm Forest",
+      "market": "1X2",
+      "pick": "draw",
+      "confidence": "MEDIUM",
+      "modelProb": 0.4032,
+      "edge": 0.1063,
+      "odds": 3.3,
+      "result": null,
+      "outcome": null
+    },
+    {
+      "mw": 33,
+      "date": "2026-03-21",
+      "home": "Manchester City",
+      "away": "Crystal Palace",
+      "market": "O/U",
+      "pick": "Over 2.5",
+      "confidence": "MEDIUM",
+      "modelProb": 0.6484,
+      "edge": null,
+      "odds": null,
+      "result": null,
+      "outcome": null
+    },
+    {
+      "mw": 33,
+      "date": "2026-03-21",
+      "home": "Manchester City",
+      "away": "Crystal Palace",
+      "market": "BTTS",
+      "pick": "BTTS Yes",
+      "confidence": "MEDIUM",
+      "modelProb": 0.621,
+      "edge": null,
+      "odds": null,
+      "result": null,
+      "outcome": null
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "market": "O/U",
+      "pick": "Over 2.5",
+      "confidence": "HIGH",
+      "modelProb": 0.6819,
+      "edge": 0.0743,
+      "odds": 1.55,
+      "result": "0-1",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-03-21",
+      "home": "Manchester City",
+      "away": "Crystal Palace",
+      "market": "1X2",
+      "pick": "Home Win",
+      "confidence": "MEDIUM",
+      "modelProb": 0.6149,
+      "edge": null,
+      "odds": null,
+      "result": null,
+      "outcome": null
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Tottenham",
+      "away": "Brighton",
+      "market": "O/U",
+      "pick": "Under 2.5",
+      "confidence": "MEDIUM",
+      "modelProb": 0.5347,
+      "edge": 0.0931,
+      "odds": 2.15,
+      "result": "2-2",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "market": "O/U",
+      "pick": "Under 2.5",
+      "confidence": "MEDIUM",
+      "modelProb": 0.5616,
+      "edge": 0.0616,
+      "odds": 1.98,
+      "result": "4-3",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-20",
+      "home": "Crystal Palace",
+      "away": "West Ham",
+      "market": "1X2",
+      "pick": "home_win",
+      "confidence": "MEDIUM",
+      "modelProb": 0.4634,
+      "edge": 0.0584,
+      "odds": 2.46,
+      "result": "0-0",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Nottm Forest",
+      "away": "Burnley",
+      "market": "1X2",
+      "pick": "draw",
+      "confidence": "LOW",
+      "modelProb": 0.324,
+      "edge": 0.1033,
+      "odds": 4.5,
+      "result": "4-1",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-19",
+      "home": "Everton",
+      "away": "Liverpool",
+      "market": "O/U",
+      "pick": "Over 2.5",
+      "confidence": "MEDIUM",
+      "modelProb": 0.5519,
+      "edge": 0.0544,
+      "odds": 2.0,
+      "result": "1-2",
+      "outcome": "win"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-19",
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "market": "1X2",
+      "pick": "away_win",
+      "confidence": "LOW",
+      "modelProb": 0.3161,
+      "edge": 0.098,
+      "odds": 4.6,
+      "result": "2-1",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-18",
+      "home": "Newcastle United",
+      "away": "Bournemouth",
+      "market": "1X2",
+      "pick": "draw",
+      "confidence": "LOW",
+      "modelProb": 0.3458,
+      "edge": 0.0958,
+      "odds": 4.0,
+      "result": "1-2",
+      "outcome": "loss"
+    },
+    {
+      "mw": 33,
+      "date": "2026-04-19",
+      "home": "Everton",
+      "away": "Liverpool",
+      "market": "1X2",
+      "pick": "draw",
+      "confidence": "LOW",
+      "modelProb": 0.3636,
+      "edge": 0.0781,
+      "odds": 3.5,
+      "result": "1-2",
+      "outcome": "loss"
+    }
+  ]
 }
