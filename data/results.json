@@ -1,128 +1,25 @@
 {
-  "updated_at": "2026-04-21T18:53:26.276128",
-  "gameweek": "GW33",
+  "updated_at": "2026-05-01T23:28:13.902921",
+  "lastUpdated": "2026-05-01T23:28:13.902921",
+  "gameweek": "GW36",
   "summary": {
-    "totalPredictions": 20,
-    "wins": 2,
-    "losses": 14,
-    "pending": 4,
-    "accuracy": 12.5,
-    "roi": -63.1
+    "totalPredictions": 19,
+    "wins": 0,
+    "losses": 0,
+    "pending": 19,
+    "accuracy": 0,
+    "roi": 0,
+    "pnl": 0
   },
   "results": [
     {
-      "match": "Chelsea vs Manchester United",
-      "date": "2026-04-18",
-      "selection": "Cards Over 3.5",
-      "market": "cards",
-      "odds": 2.32,
-      "model_prob": 0.6497,
-      "edge": 0.2415,
-      "confidence": "HIGH",
-      "result": "0-1",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Total goals: 1 (line: 3.5)"
-    },
-    {
-      "match": "Newcastle United vs Bournemouth",
-      "date": "2026-04-18",
-      "selection": "Cards Over 3.5",
-      "market": "cards",
-      "odds": 2.23,
-      "model_prob": 0.6152,
-      "edge": 0.1914,
-      "confidence": "HIGH",
-      "result": "1-2",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Total goals: 3 (line: 3.5)"
-    },
-    {
-      "match": "Manchester City vs Arsenal",
-      "date": "2026-04-19",
+      "match": "Everton vs Manchester City",
+      "date": "2026-05-04",
       "selection": "draw",
       "market": "1X2",
-      "odds": 3.95,
-      "model_prob": 0.395,
-      "edge": 0.141,
-      "confidence": "MEDIUM",
-      "result": "2-1",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Result: 2-1 (H)"
-    },
-    {
-      "match": "Tottenham vs Brighton",
-      "date": "2026-04-18",
-      "selection": "draw",
-      "market": "1X2",
-      "odds": 3.9,
-      "model_prob": 0.394,
-      "edge": 0.1396,
-      "confidence": "MEDIUM",
-      "result": "2-2",
-      "outcome": "win",
-      "status": "resolved",
-      "pnl": 2.9,
-      "explanation": "Result: 2-2 (D)"
-    },
-    {
-      "match": "Crystal Palace vs West Ham",
-      "date": "2026-04-20",
-      "selection": "Over 2.5",
-      "market": "totals",
-      "odds": 1.91,
-      "model_prob": 0.6219,
-      "edge": 0.1206,
-      "confidence": "HIGH",
-      "result": "0-0",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Total goals: 0 (line: 2.5)"
-    },
-    {
-      "match": "Aston Villa vs Sunderland",
-      "date": "2026-04-18",
-      "selection": "draw",
-      "market": "1X2",
-      "odds": 4.0,
-      "model_prob": 0.3799,
-      "edge": 0.1315,
-      "confidence": "MEDIUM",
-      "result": "4-3",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Result: 4-3 (H)"
-    },
-    {
-      "match": "Brentford vs Fulham",
-      "date": "2026-04-18",
-      "selection": "Over 2.5",
-      "market": "totals",
-      "odds": 1.79,
-      "model_prob": 0.6462,
-      "edge": 0.1185,
-      "confidence": "HIGH",
-      "result": "0-0",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Total goals: 0 (line: 2.5)"
-    },
-    {
-      "match": "Sunderland vs Nottm Forest",
-      "date": "2026-04-24",
-      "selection": "draw",
-      "market": "1X2",
-      "odds": 3.3,
-      "model_prob": 0.4032,
-      "edge": 0.1063,
+      "odds": 5.1,
+      "model_prob": 0.3237,
+      "edge": 0.1287,
       "confidence": "MEDIUM",
       "result": "",
       "outcome": "pending",
@@ -131,57 +28,57 @@
       "explanation": ""
     },
     {
-      "match": "Manchester City vs Crystal Palace",
-      "date": "2026-03-21",
-      "selection": "Over 2.5",
-      "market": "O/U",
-      "odds": null,
-      "model_prob": 0.6484,
-      "edge": null,
-      "confidence": "MEDIUM",
-      "result": "",
-      "outcome": "pending",
-      "status": "pending",
-      "pnl": null,
-      "explanation": ""
-    },
-    {
-      "match": "Manchester City vs Crystal Palace",
-      "date": "2026-03-21",
-      "selection": "BTTS Yes",
-      "market": "BTTS",
-      "odds": null,
-      "model_prob": 0.621,
-      "edge": null,
-      "confidence": "MEDIUM",
-      "result": "",
-      "outcome": "pending",
-      "status": "pending",
-      "pnl": null,
-      "explanation": ""
-    },
-    {
-      "match": "Chelsea vs Manchester United",
-      "date": "2026-04-18",
+      "match": "Chelsea vs Nottm Forest",
+      "date": "2026-05-04",
       "selection": "Over 2.5",
       "market": "totals",
-      "odds": 1.55,
-      "model_prob": 0.6819,
-      "edge": 0.0743,
+      "odds": 1.74,
+      "model_prob": 0.6752,
+      "edge": 0.1038,
       "confidence": "HIGH",
-      "result": "0-1",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Total goals: 1 (line: 2.5)"
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
     },
     {
-      "match": "Manchester City vs Crystal Palace",
-      "date": "2026-03-21",
+      "match": "Wolverhampton Wanderers vs Sunderland",
+      "date": "2026-05-02",
+      "selection": "draw",
+      "market": "1X2",
+      "odds": 3.7,
+      "model_prob": 0.3949,
+      "edge": 0.1269,
+      "confidence": "MEDIUM",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Newcastle United vs Brighton",
+      "date": "2026-05-02",
+      "selection": "draw",
+      "market": "1X2",
+      "odds": 3.85,
+      "model_prob": 0.3626,
+      "edge": 0.1037,
+      "confidence": "MEDIUM",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Leeds vs Burnley",
+      "date": "2026-05-01",
       "selection": "Home Win",
       "market": "1X2",
       "odds": null,
-      "model_prob": 0.6149,
+      "model_prob": 0.6799,
       "edge": null,
       "confidence": "MEDIUM",
       "result": "",
@@ -191,476 +88,2440 @@
       "explanation": ""
     },
     {
-      "match": "Tottenham vs Brighton",
-      "date": "2026-04-18",
-      "selection": "Under 2.5",
-      "market": "totals",
-      "odds": 2.15,
-      "model_prob": 0.5347,
-      "edge": 0.0931,
+      "match": "Leeds vs Burnley",
+      "date": "2026-05-01",
+      "selection": "Over 2.5",
+      "market": "O/U",
+      "odds": null,
+      "model_prob": 0.6602,
+      "edge": null,
       "confidence": "MEDIUM",
-      "result": "2-2",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Total goals: 4 (line: 2.5)"
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
     },
     {
-      "match": "Aston Villa vs Sunderland",
-      "date": "2026-04-18",
-      "selection": "Under 2.5",
-      "market": "totals",
-      "odds": 1.98,
-      "model_prob": 0.5616,
-      "edge": 0.0616,
-      "confidence": "MEDIUM",
-      "result": "4-3",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Total goals: 7 (line: 2.5)"
-    },
-    {
-      "match": "Crystal Palace vs West Ham",
-      "date": "2026-04-20",
-      "selection": "home_win",
-      "market": "1X2",
-      "odds": 2.46,
-      "model_prob": 0.4634,
-      "edge": 0.0584,
-      "confidence": "MEDIUM",
-      "result": "0-0",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Result: 0-0 (D)"
-    },
-    {
-      "match": "Nottm Forest vs Burnley",
-      "date": "2026-04-18",
+      "match": "Aston Villa vs Tottenham",
+      "date": "2026-05-03",
       "selection": "draw",
       "market": "1X2",
-      "odds": 4.5,
-      "model_prob": 0.324,
-      "edge": 0.1033,
-      "confidence": "LOW",
-      "result": "4-1",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Result: 4-1 (H)"
+      "odds": 3.75,
+      "model_prob": 0.361,
+      "edge": 0.0955,
+      "confidence": "MEDIUM",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
     },
     {
-      "match": "Everton vs Liverpool",
-      "date": "2026-04-19",
+      "match": "Leeds vs Burnley",
+      "date": "2026-05-01",
+      "selection": "BTTS Yes",
+      "market": "BTTS",
+      "odds": null,
+      "model_prob": 0.5846,
+      "edge": null,
+      "confidence": "MEDIUM",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Liverpool vs Chelsea",
+      "date": "2026-05-09",
+      "selection": "Cards Over 3.5",
+      "market": "cards",
+      "odds": 2.32,
+      "model_prob": 0.5193,
+      "edge": 0.1111,
+      "confidence": "MEDIUM",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Liverpool vs Chelsea",
+      "date": "2026-05-09",
       "selection": "Over 2.5",
       "market": "totals",
-      "odds": 2.0,
-      "model_prob": 0.5519,
-      "edge": 0.0544,
+      "odds": 1.44,
+      "model_prob": 0.6996,
+      "edge": 0.0543,
+      "confidence": "HIGH",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Wolverhampton Wanderers vs Sunderland",
+      "date": "2026-05-02",
+      "selection": "Under 2.5",
+      "market": "totals",
+      "odds": 1.9,
+      "model_prob": 0.5815,
+      "edge": 0.0589,
       "confidence": "MEDIUM",
-      "result": "1-2",
-      "outcome": "win",
-      "status": "resolved",
-      "pnl": 1.0,
-      "explanation": "Total goals: 3 (line: 2.5)"
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
     },
     {
-      "match": "Manchester City vs Arsenal",
-      "date": "2026-04-19",
-      "selection": "away_win",
-      "market": "1X2",
-      "odds": 4.6,
-      "model_prob": 0.3161,
-      "edge": 0.098,
-      "confidence": "LOW",
-      "result": "2-1",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Result: 2-1 (H)"
+      "match": "Aston Villa vs Tottenham",
+      "date": "2026-05-03",
+      "selection": "Under 2.5",
+      "market": "totals",
+      "odds": 2.18,
+      "model_prob": 0.4986,
+      "edge": 0.0605,
+      "confidence": "MEDIUM",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
     },
     {
-      "match": "Newcastle United vs Bournemouth",
-      "date": "2026-04-18",
+      "match": "Arsenal vs Fulham",
+      "date": "2026-05-02",
       "selection": "draw",
       "market": "1X2",
-      "odds": 4.0,
-      "model_prob": 0.3458,
-      "edge": 0.0958,
+      "odds": 4.9,
+      "model_prob": 0.2819,
+      "edge": 0.0789,
       "confidence": "LOW",
-      "result": "1-2",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Result: 1-2 (A)"
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
     },
     {
-      "match": "Everton vs Liverpool",
-      "date": "2026-04-19",
+      "match": "Brentford vs West Ham",
+      "date": "2026-05-02",
       "selection": "draw",
       "market": "1X2",
-      "odds": 3.5,
-      "model_prob": 0.3636,
-      "edge": 0.0781,
+      "odds": 4.1,
+      "model_prob": 0.3155,
+      "edge": 0.0732,
       "confidence": "LOW",
-      "result": "1-2",
-      "outcome": "loss",
-      "status": "resolved",
-      "pnl": -1.0,
-      "explanation": "Result: 1-2 (A)"
-    }
-  ],
-  "failure_patterns": [
-    "\ud83d\udcca Over goals misses: 5 \u2014 may be overestimating xG conversion",
-    "\ud83d\udd25 HIGH confidence failures: 5/5 \u2014 recalibration needed",
-    "\ud83d\ude97 Away team results missed: 6 away wins not predicted",
-    "\ud83c\udfdf\ufe0f Chelsea predictions wrong 2 times \u2014 check rating calibration",
-    "\ud83c\udfdf\ufe0f Manchester United predictions wrong 2 times \u2014 check rating calibration",
-    "\ud83c\udfdf\ufe0f Newcastle United predictions wrong 2 times \u2014 check rating calibration"
-  ],
-  "lessons_learned": "## \ud83d\udcda Lessons Learned\n\n### Overall Performance (16 picks resolved)\n- Accuracy: **12.5%**\n- P&L: **\u00a3-10.10** (ROI: -63.1%)\n\n### By Confidence Tier\n- **HIGH**: 0.0% (0/5) | P&L: \u00a3-5.00\n- **MEDIUM**: 28.6% (2/7) | P&L: \u00a3-1.10\n- **LOW**: 0.0% (0/4) | P&L: \u00a3-4.00\n\n### By Market\n- **cards**: 0.0% (0/2)\n- **1X2**: 12.5% (1/8)\n- **totals**: 16.7% (1/6)\n\n### Patterns Identified\n- \ud83d\udcca Over goals misses: 5 \u2014 may be overestimating xG conversion\n- \ud83d\udd25 HIGH confidence failures: 5/5 \u2014 recalibration needed\n- \ud83d\ude97 Away team results missed: 6 away wins not predicted\n- \ud83c\udfdf\ufe0f Chelsea predictions wrong 2 times \u2014 check rating calibration\n- \ud83c\udfdf\ufe0f Manchester United predictions wrong 2 times \u2014 check rating calibration\n- \ud83c\udfdf\ufe0f Newcastle United predictions wrong 2 times \u2014 check rating calibration\n\n### Recommendations\n- \ud83d\udd34 Accuracy below 45% \u2014 consider increasing xG weight and reducing actual goals influence\n- \u26a0\ufe0f HIGH confidence tier underperforming \u2014 recalibrate confidence thresholds\n- \ud83d\udcca 1X2 accuracy low \u2014 draws are notoriously hard to predict; consider reducing draw picks",
-  "lastUpdated": "2026-04-21T18:53:26.276128",
-  "weeklyAccuracy": [
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
     {
-      "week": "GW33",
-      "date": "2026-04-21",
-      "accuracy": 12.5,
-      "picks": 20,
-      "resolved": 16,
-      "wins": 2,
-      "losses": 14,
-      "pending": 4
+      "match": "Bournemouth vs Crystal Palace",
+      "date": "2026-05-03",
+      "selection": "draw",
+      "market": "1X2",
+      "odds": 4.2,
+      "model_prob": 0.3057,
+      "edge": 0.0688,
+      "confidence": "LOW",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Manchester United vs Liverpool",
+      "date": "2026-05-03",
+      "selection": "draw",
+      "market": "1X2",
+      "odds": 3.95,
+      "model_prob": 0.3163,
+      "edge": 0.0652,
+      "confidence": "LOW",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Sunderland vs Manchester United",
+      "date": "2026-05-09",
+      "selection": "draw",
+      "market": "1X2",
+      "odds": 3.85,
+      "model_prob": 0.3207,
+      "edge": 0.0652,
+      "confidence": "LOW",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Leeds vs Burnley",
+      "date": "2026-05-01",
+      "selection": "BTTS No",
+      "market": "BTTS",
+      "odds": null,
+      "model_prob": 0.4154,
+      "edge": null,
+      "confidence": "LOW",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
+    },
+    {
+      "match": "Liverpool vs Chelsea",
+      "date": "2026-05-09",
+      "selection": "draw",
+      "market": "1X2",
+      "odds": 4.1,
+      "model_prob": 0.2925,
+      "edge": 0.053,
+      "confidence": "LOW",
+      "result": "",
+      "outcome": "pending",
+      "status": "pending",
+      "pnl": null,
+      "explanation": ""
     }
   ],
+  "failure_patterns": [],
+  "lessons_learned": "",
+  "weeklyAccuracy": [],
   "byMarket": {
-    "cards": {
-      "total": 2,
-      "wins": 0,
-      "accuracy": 0.0
-    },
-    "1X2": {
-      "total": 8,
-      "wins": 1,
-      "accuracy": 12.5
-    },
-    "O/U": {
-      "total": 6,
-      "wins": 1,
-      "accuracy": 16.7
-    }
+    "1X2": 11,
+    "totals": 4,
+    "O/U": 1,
+    "BTTS": 2,
+    "cards": 1
   },
   "byConfidence": {
-    "HIGH": {
-      "total": 5,
-      "wins": 0,
-      "accuracy": 0.0
-    },
-    "MEDIUM": {
-      "total": 7,
-      "wins": 2,
-      "accuracy": 28.6
-    },
-    "LOW": {
-      "total": 4,
-      "wins": 0,
-      "accuracy": 0.0
-    }
+    "HIGH": 2,
+    "MEDIUM": 10,
+    "LOW": 7
   },
-  "matchResults": {
-    "Manchester City vs Crystal Palace": "Stale fixture in model (pending cleanup)",
-    "Brentford vs Fulham": "0-0",
-    "Newcastle United vs Bournemouth": "1-2",
-    "Nottm Forest vs Burnley": "4-1",
-    "Aston Villa vs Sunderland": "4-3",
-    "Leeds vs Wolverhampton Wanderers": "3-0",
-    "Tottenham vs Brighton": "2-2",
-    "Chelsea vs Manchester United": "0-1",
-    "Everton vs Liverpool": "1-2",
-    "Manchester City vs Arsenal": "2-1",
-    "Crystal Palace vs West Ham": "0-0",
-    "Sunderland vs Nottm Forest": "Pending"
-  },
+  "matchResults": {},
   "predictions": [
     {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Chelsea",
-      "away": "Manchester United",
-      "market": "cards",
-      "pick": "Cards Over 3.5",
-      "confidence": "HIGH",
-      "modelProb": 0.6497,
-      "edge": 0.2415,
-      "odds": 2.32,
-      "result": "0-1",
-      "outcome": "loss"
+      "home_team": "Leeds",
+      "away_team": "Burnley",
+      "lambda_home": 2.514,
+      "lambda_away": 0.923,
+      "scoreline_matrix": [
+        [
+          0.06587,
+          0.0,
+          0.01385,
+          0.00426,
+          0.00098,
+          0.00018,
+          3e-05
+        ],
+        [
+          0.04845,
+          0.10882,
+          0.03482,
+          0.01071,
+          0.00247,
+          0.00046,
+          7e-05
+        ],
+        [
+          0.10282,
+          0.09488,
+          0.04378,
+          0.01347,
+          0.00311,
+          0.00057,
+          9e-05
+        ],
+        [
+          0.08617,
+          0.07951,
+          0.03669,
+          0.01128,
+          0.0026,
+          0.00048,
+          7e-05
+        ],
+        [
+          0.05416,
+          0.04998,
+          0.02306,
+          0.00709,
+          0.00164,
+          0.0003,
+          5e-05
+        ],
+        [
+          0.02723,
+          0.02513,
+          0.01159,
+          0.00357,
+          0.00082,
+          0.00015,
+          2e-05
+        ],
+        [
+          0.01141,
+          0.01053,
+          0.00486,
+          0.00149,
+          0.00034,
+          6e-05,
+          1e-05
+        ]
+      ],
+      "prob_home_win": 0.6799,
+      "prob_draw": 0.2316,
+      "prob_away_win": 0.0886,
+      "over_under": {
+        "0.5": {
+          "over": 0.9341,
+          "under": 0.0659
+        },
+        "1.5": {
+          "over": 0.8857,
+          "under": 0.1143
+        },
+        "2.5": {
+          "over": 0.6602,
+          "under": 0.3398
+        },
+        "3.5": {
+          "over": 0.4401,
+          "under": 0.5599
+        },
+        "4.5": {
+          "over": 0.2509,
+          "under": 0.7491
+        }
+      },
+      "btts_prob": 0.5846,
+      "home_clean_sheet": 0.3961,
+      "away_clean_sheet": 0.0852,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1088
+        ],
+        [
+          "2-0",
+          0.1028
+        ],
+        [
+          "2-1",
+          0.0949
+        ],
+        [
+          "3-0",
+          0.0862
+        ],
+        [
+          "3-1",
+          0.0795
+        ],
+        [
+          "0-0",
+          0.0659
+        ],
+        [
+          "4-0",
+          0.0542
+        ],
+        [
+          "4-1",
+          0.05
+        ],
+        [
+          "1-0",
+          0.0484
+        ],
+        [
+          "2-2",
+          0.0438
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.088,
+        "away": 0.699
+      },
+      "defence_ratings": {
+        "home": 1.32,
+        "away": 1.912
+      },
+      "date": "2026-05-01",
+      "time": "20:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 3.647,
+        "expected_home": 1.529,
+        "expected_away": 2.118,
+        "over_under": {
+          "1.5": {
+            "over": 0.8789,
+            "under": 0.1211
+          },
+          "2.5": {
+            "over": 0.7055,
+            "under": 0.2945
+          },
+          "3.5": {
+            "over": 0.4947,
+            "under": 0.5053
+          },
+          "4.5": {
+            "over": 0.3026,
+            "under": 0.6974
+          },
+          "5.5": {
+            "over": 0.1624,
+            "under": 0.8376
+          },
+          "6.5": {
+            "over": 0.0772,
+            "under": 0.9228
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Newcastle United",
-      "away": "Bournemouth",
-      "market": "cards",
-      "pick": "Cards Over 3.5",
-      "confidence": "HIGH",
-      "modelProb": 0.6152,
-      "edge": 0.1914,
-      "odds": 2.23,
-      "result": "1-2",
-      "outcome": "loss"
+      "home_team": "Brentford",
+      "away_team": "West Ham",
+      "lambda_home": 1.897,
+      "lambda_away": 1.227,
+      "scoreline_matrix": [
+        [
+          0.08957,
+          0.00879,
+          0.03324,
+          0.0136,
+          0.00417,
+          0.00102,
+          0.00021
+        ],
+        [
+          0.03836,
+          0.14818,
+          0.06305,
+          0.02579,
+          0.00791,
+          0.00194,
+          0.0004
+        ],
+        [
+          0.07943,
+          0.09746,
+          0.05979,
+          0.02445,
+          0.0075,
+          0.00184,
+          0.00038
+        ],
+        [
+          0.05022,
+          0.06161,
+          0.0378,
+          0.01546,
+          0.00474,
+          0.00116,
+          0.00024
+        ],
+        [
+          0.02381,
+          0.02921,
+          0.01792,
+          0.00733,
+          0.00225,
+          0.00055,
+          0.00011
+        ],
+        [
+          0.00903,
+          0.01108,
+          0.0068,
+          0.00278,
+          0.00085,
+          0.00021,
+          4e-05
+        ],
+        [
+          0.00285,
+          0.0035,
+          0.00215,
+          0.00088,
+          0.00027,
+          7e-05,
+          1e-05
+        ]
+      ],
+      "prob_home_win": 0.4834,
+      "prob_draw": 0.3155,
+      "prob_away_win": 0.2011,
+      "over_under": {
+        "0.5": {
+          "over": 0.9104,
+          "under": 0.0896
+        },
+        "1.5": {
+          "over": 0.8633,
+          "under": 0.1367
+        },
+        "2.5": {
+          "over": 0.6024,
+          "under": 0.3976
+        },
+        "3.5": {
+          "over": 0.3781,
+          "under": 0.6219
+        },
+        "4.5": {
+          "over": 0.203,
+          "under": 0.797
+        }
+      },
+      "btts_prob": 0.6457,
+      "home_clean_sheet": 0.2933,
+      "away_clean_sheet": 0.1506,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1482
+        ],
+        [
+          "2-1",
+          0.0975
+        ],
+        [
+          "0-0",
+          0.0896
+        ],
+        [
+          "2-0",
+          0.0794
+        ],
+        [
+          "1-2",
+          0.063
+        ],
+        [
+          "3-1",
+          0.0616
+        ],
+        [
+          "2-2",
+          0.0598
+        ],
+        [
+          "3-0",
+          0.0502
+        ],
+        [
+          "1-0",
+          0.0384
+        ],
+        [
+          "3-2",
+          0.0378
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.153,
+        "away": 0.932
+      },
+      "defence_ratings": {
+        "home": 1.317,
+        "away": 1.361
+      },
+      "date": "2026-05-02",
+      "time": "15:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 3.411,
+        "expected_home": 1.529,
+        "expected_away": 1.882,
+        "over_under": {
+          "1.5": {
+            "over": 0.8544,
+            "under": 0.1456
+          },
+          "2.5": {
+            "over": 0.6624,
+            "under": 0.3376
+          },
+          "3.5": {
+            "over": 0.444,
+            "under": 0.556
+          },
+          "4.5": {
+            "over": 0.2579,
+            "under": 0.7421
+          },
+          "5.5": {
+            "over": 0.1309,
+            "under": 0.8691
+          },
+          "6.5": {
+            "over": 0.0586,
+            "under": 0.9414
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-19",
-      "home": "Manchester City",
-      "away": "Arsenal",
-      "market": "1X2",
-      "pick": "draw",
-      "confidence": "MEDIUM",
-      "modelProb": 0.395,
-      "edge": 0.141,
-      "odds": 3.95,
-      "result": "2-1",
-      "outcome": "loss"
+      "home_team": "Newcastle United",
+      "away_team": "Brighton",
+      "lambda_home": 1.397,
+      "lambda_away": 1.352,
+      "scoreline_matrix": [
+        [
+          0.11753,
+          0.03319,
+          0.05859,
+          0.02641,
+          0.00893,
+          0.00241,
+          0.00054
+        ],
+        [
+          0.03602,
+          0.17446,
+          0.08182,
+          0.03688,
+          0.01247,
+          0.00337,
+          0.00076
+        ],
+        [
+          0.06248,
+          0.08449,
+          0.05713,
+          0.02575,
+          0.00871,
+          0.00235,
+          0.00053
+        ],
+        [
+          0.02908,
+          0.03933,
+          0.0266,
+          0.01199,
+          0.00405,
+          0.0011,
+          0.00025
+        ],
+        [
+          0.01015,
+          0.01373,
+          0.00929,
+          0.00419,
+          0.00142,
+          0.00038,
+          9e-05
+        ],
+        [
+          0.00284,
+          0.00384,
+          0.00259,
+          0.00117,
+          0.0004,
+          0.00011,
+          2e-05
+        ],
+        [
+          0.00066,
+          0.00089,
+          0.0006,
+          0.00027,
+          9e-05,
+          2e-05,
+          1e-05
+        ]
+      ],
+      "prob_home_win": 0.3287,
+      "prob_draw": 0.3626,
+      "prob_away_win": 0.3086,
+      "over_under": {
+        "0.5": {
+          "over": 0.8825,
+          "under": 0.1175
+        },
+        "1.5": {
+          "over": 0.8133,
+          "under": 0.1867
+        },
+        "2.5": {
+          "over": 0.5177,
+          "under": 0.4823
+        },
+        "3.5": {
+          "over": 0.2959,
+          "under": 0.7041
+        },
+        "4.5": {
+          "over": 0.1435,
+          "under": 0.8565
+        }
+      },
+      "btts_prob": 0.6112,
+      "home_clean_sheet": 0.2588,
+      "away_clean_sheet": 0.2476,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1745
+        ],
+        [
+          "0-0",
+          0.1175
+        ],
+        [
+          "2-1",
+          0.0845
+        ],
+        [
+          "1-2",
+          0.0818
+        ],
+        [
+          "2-0",
+          0.0625
+        ],
+        [
+          "0-2",
+          0.0586
+        ],
+        [
+          "2-2",
+          0.0571
+        ],
+        [
+          "3-1",
+          0.0393
+        ],
+        [
+          "1-3",
+          0.0369
+        ],
+        [
+          "1-0",
+          0.036
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.005,
+        "away": 1.052
+      },
+      "defence_ratings": {
+        "home": 1.286,
+        "away": 1.15
+      },
+      "date": "2026-05-02",
+      "time": "15:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 4.578,
+        "expected_home": 1.696,
+        "expected_away": 2.882,
+        "over_under": {
+          "1.5": {
+            "over": 0.9427,
+            "under": 0.0573
+          },
+          "2.5": {
+            "over": 0.835,
+            "under": 0.165
+          },
+          "3.5": {
+            "over": 0.6707,
+            "under": 0.3293
+          },
+          "4.5": {
+            "over": 0.4826,
+            "under": 0.5174
+          },
+          "5.5": {
+            "over": 0.3104,
+            "under": 0.6896
+          },
+          "6.5": {
+            "over": 0.1791,
+            "under": 0.8209
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Tottenham",
-      "away": "Brighton",
-      "market": "1X2",
-      "pick": "draw",
-      "confidence": "MEDIUM",
-      "modelProb": 0.394,
-      "edge": 0.1396,
-      "odds": 3.9,
-      "result": "2-2",
-      "outcome": "win"
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Sunderland",
+      "lambda_home": 1.11,
+      "lambda_away": 1.246,
+      "scoreline_matrix": [
+        [
+          0.1528,
+          0.06019,
+          0.07358,
+          0.03055,
+          0.00951,
+          0.00237,
+          0.00049
+        ],
+        [
+          0.04737,
+          0.18913,
+          0.0817,
+          0.03392,
+          0.01056,
+          0.00263,
+          0.00055
+        ],
+        [
+          0.05847,
+          0.07283,
+          0.04536,
+          0.01883,
+          0.00586,
+          0.00146,
+          0.0003
+        ],
+        [
+          0.02164,
+          0.02696,
+          0.01679,
+          0.00697,
+          0.00217,
+          0.00054,
+          0.00011
+        ],
+        [
+          0.00601,
+          0.00748,
+          0.00466,
+          0.00193,
+          0.0006,
+          0.00015,
+          3e-05
+        ],
+        [
+          0.00133,
+          0.00166,
+          0.00103,
+          0.00043,
+          0.00013,
+          3e-05,
+          1e-05
+        ],
+        [
+          0.00025,
+          0.00031,
+          0.00019,
+          8e-05,
+          2e-05,
+          1e-05,
+          0.0
+        ]
+      ],
+      "prob_home_win": 0.2696,
+      "prob_draw": 0.3949,
+      "prob_away_win": 0.3355,
+      "over_under": {
+        "0.5": {
+          "over": 0.8472,
+          "under": 0.1528
+        },
+        "1.5": {
+          "over": 0.7396,
+          "under": 0.2604
+        },
+        "2.5": {
+          "over": 0.4185,
+          "under": 0.5815
+        },
+        "3.5": {
+          "over": 0.2117,
+          "under": 0.7883
+        },
+        "4.5": {
+          "over": 0.09,
+          "under": 0.91
+        }
+      },
+      "btts_prob": 0.5354,
+      "home_clean_sheet": 0.2879,
+      "away_clean_sheet": 0.3295,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1891
+        ],
+        [
+          "0-0",
+          0.1528
+        ],
+        [
+          "1-2",
+          0.0817
+        ],
+        [
+          "0-2",
+          0.0736
+        ],
+        [
+          "2-1",
+          0.0728
+        ],
+        [
+          "0-1",
+          0.0602
+        ],
+        [
+          "2-0",
+          0.0585
+        ],
+        [
+          "1-0",
+          0.0474
+        ],
+        [
+          "2-2",
+          0.0454
+        ],
+        [
+          "1-3",
+          0.0339
+        ]
+      ],
+      "attack_ratings": {
+        "home": 0.612,
+        "away": 0.791
+      },
+      "defence_ratings": {
+        "home": 1.575,
+        "away": 1.501
+      },
+      "date": "2026-05-02",
+      "time": "15:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 4.049,
+        "expected_home": 1.696,
+        "expected_away": 2.353,
+        "over_under": {
+          "1.5": {
+            "over": 0.9119,
+            "under": 0.0881
+          },
+          "2.5": {
+            "over": 0.769,
+            "under": 0.231
+          },
+          "3.5": {
+            "over": 0.576,
+            "under": 0.424
+          },
+          "4.5": {
+            "over": 0.3807,
+            "under": 0.6193
+          },
+          "5.5": {
+            "over": 0.2226,
+            "under": 0.7774
+          },
+          "6.5": {
+            "over": 0.1158,
+            "under": 0.8842
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-20",
-      "home": "Crystal Palace",
-      "away": "West Ham",
-      "market": "O/U",
-      "pick": "Over 2.5",
-      "confidence": "HIGH",
-      "modelProb": 0.6219,
-      "edge": 0.1206,
-      "odds": 1.91,
-      "result": "0-0",
-      "outcome": "loss"
+      "home_team": "Arsenal",
+      "away_team": "Fulham",
+      "lambda_home": 1.982,
+      "lambda_away": 0.647,
+      "scoreline_matrix": [
+        [
+          0.11356,
+          0.00584,
+          0.01517,
+          0.00327,
+          0.00053,
+          7e-05,
+          1e-05
+        ],
+        [
+          0.10262,
+          0.13399,
+          0.03006,
+          0.00648,
+          0.00105,
+          0.00014,
+          1e-05
+        ],
+        [
+          0.14235,
+          0.09208,
+          0.02978,
+          0.00642,
+          0.00104,
+          0.00013,
+          1e-05
+        ],
+        [
+          0.09403,
+          0.06082,
+          0.01967,
+          0.00424,
+          0.00069,
+          9e-05,
+          1e-05
+        ],
+        [
+          0.04658,
+          0.03013,
+          0.00975,
+          0.0021,
+          0.00034,
+          4e-05,
+          0.0
+        ],
+        [
+          0.01846,
+          0.01194,
+          0.00386,
+          0.00083,
+          0.00013,
+          2e-05,
+          0.0
+        ],
+        [
+          0.0061,
+          0.00394,
+          0.00128,
+          0.00028,
+          4e-05,
+          1e-05,
+          0.0
+        ]
+      ],
+      "prob_home_win": 0.647,
+      "prob_draw": 0.2819,
+      "prob_away_win": 0.0711,
+      "over_under": {
+        "0.5": {
+          "over": 0.8864,
+          "under": 0.1136
+        },
+        "1.5": {
+          "over": 0.778,
+          "under": 0.222
+        },
+        "2.5": {
+          "over": 0.4865,
+          "under": 0.5135
+        },
+        "3.5": {
+          "over": 0.267,
+          "under": 0.733
+        },
+        "4.5": {
+          "over": 0.1228,
+          "under": 0.8772
+        }
+      },
+      "btts_prob": 0.4514,
+      "home_clean_sheet": 0.5237,
+      "away_clean_sheet": 0.1384,
+      "correct_scores": [
+        [
+          "2-0",
+          0.1424
+        ],
+        [
+          "1-1",
+          0.134
+        ],
+        [
+          "0-0",
+          0.1136
+        ],
+        [
+          "1-0",
+          0.1026
+        ],
+        [
+          "3-0",
+          0.094
+        ],
+        [
+          "2-1",
+          0.0921
+        ],
+        [
+          "3-1",
+          0.0608
+        ],
+        [
+          "4-0",
+          0.0466
+        ],
+        [
+          "1-2",
+          0.0301
+        ],
+        [
+          "4-1",
+          0.0301
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.248,
+        "away": 0.854
+      },
+      "defence_ratings": {
+        "home": 0.758,
+        "away": 1.314
+      },
+      "date": "2026-05-02",
+      "time": "17:30",
+      "referee": "",
+      "cards": {
+        "expected_total": 3.176,
+        "expected_home": 0.941,
+        "expected_away": 2.235,
+        "over_under": {
+          "1.5": {
+            "over": 0.8256,
+            "under": 0.1744
+          },
+          "2.5": {
+            "over": 0.6151,
+            "under": 0.3849
+          },
+          "3.5": {
+            "over": 0.3921,
+            "under": 0.6079
+          },
+          "4.5": {
+            "over": 0.2151,
+            "under": 0.7849
+          },
+          "5.5": {
+            "over": 0.1027,
+            "under": 0.8973
+          },
+          "6.5": {
+            "over": 0.0432,
+            "under": 0.9568
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Aston Villa",
-      "away": "Sunderland",
-      "market": "1X2",
-      "pick": "draw",
-      "confidence": "MEDIUM",
-      "modelProb": 0.3799,
-      "edge": 0.1315,
-      "odds": 4.0,
-      "result": "4-3",
-      "outcome": "loss"
+      "home_team": "Bournemouth",
+      "away_team": "Crystal Palace",
+      "lambda_home": 1.982,
+      "lambda_away": 1.173,
+      "scoreline_matrix": [
+        [
+          0.08686,
+          0.00626,
+          0.02947,
+          0.01152,
+          0.00338,
+          0.00079,
+          0.00015
+        ],
+        [
+          0.04092,
+          0.1436,
+          0.05841,
+          0.02283,
+          0.00669,
+          0.00157,
+          0.00031
+        ],
+        [
+          0.08415,
+          0.09869,
+          0.05787,
+          0.02262,
+          0.00663,
+          0.00156,
+          0.0003
+        ],
+        [
+          0.05558,
+          0.06519,
+          0.03823,
+          0.01494,
+          0.00438,
+          0.00103,
+          0.0002
+        ],
+        [
+          0.02754,
+          0.03229,
+          0.01894,
+          0.0074,
+          0.00217,
+          0.00051,
+          0.0001
+        ],
+        [
+          0.01091,
+          0.0128,
+          0.00751,
+          0.00293,
+          0.00086,
+          0.0002,
+          4e-05
+        ],
+        [
+          0.0036,
+          0.00423,
+          0.00248,
+          0.00097,
+          0.00028,
+          7e-05,
+          1e-05
+        ]
+      ],
+      "prob_home_win": 0.5156,
+      "prob_draw": 0.3057,
+      "prob_away_win": 0.1788,
+      "over_under": {
+        "0.5": {
+          "over": 0.9131,
+          "under": 0.0869
+        },
+        "1.5": {
+          "over": 0.866,
+          "under": 0.134
+        },
+        "2.5": {
+          "over": 0.6087,
+          "under": 0.3913
+        },
+        "3.5": {
+          "over": 0.3845,
+          "under": 0.6155
+        },
+        "4.5": {
+          "over": 0.2077,
+          "under": 0.7923
+        }
+      },
+      "btts_prob": 0.6389,
+      "home_clean_sheet": 0.3096,
+      "away_clean_sheet": 0.1384,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1436
+        ],
+        [
+          "2-1",
+          0.0987
+        ],
+        [
+          "0-0",
+          0.0869
+        ],
+        [
+          "2-0",
+          0.0841
+        ],
+        [
+          "3-1",
+          0.0652
+        ],
+        [
+          "1-2",
+          0.0584
+        ],
+        [
+          "2-2",
+          0.0579
+        ],
+        [
+          "3-0",
+          0.0556
+        ],
+        [
+          "1-0",
+          0.0409
+        ],
+        [
+          "3-2",
+          0.0382
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.223,
+        "away": 0.939
+      },
+      "defence_ratings": {
+        "home": 1.249,
+        "away": 1.341
+      },
+      "date": "2026-05-03",
+      "time": "14:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 4.551,
+        "expected_home": 2.176,
+        "expected_away": 2.375,
+        "over_under": {
+          "1.5": {
+            "over": 0.9414,
+            "under": 0.0586
+          },
+          "2.5": {
+            "over": 0.8321,
+            "under": 0.1679
+          },
+          "3.5": {
+            "over": 0.6662,
+            "under": 0.3338
+          },
+          "4.5": {
+            "over": 0.4775,
+            "under": 0.5225
+          },
+          "5.5": {
+            "over": 0.3058,
+            "under": 0.6942
+          },
+          "6.5": {
+            "over": 0.1755,
+            "under": 0.8245
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Brentford",
-      "away": "Fulham",
-      "market": "O/U",
-      "pick": "Over 2.5",
-      "confidence": "HIGH",
-      "modelProb": 0.6462,
-      "edge": 0.1185,
-      "odds": 1.79,
-      "result": "0-0",
-      "outcome": "loss"
+      "home_team": "Manchester United",
+      "away_team": "Liverpool",
+      "lambda_home": 1.868,
+      "lambda_away": 1.335,
+      "scoreline_matrix": [
+        [
+          0.08571,
+          0.0095,
+          0.03633,
+          0.01616,
+          0.00539,
+          0.00144,
+          0.00032
+        ],
+        [
+          0.03126,
+          0.14663,
+          0.06787,
+          0.0302,
+          0.01008,
+          0.00269,
+          0.0006
+        ],
+        [
+          0.07118,
+          0.09501,
+          0.06341,
+          0.02821,
+          0.00941,
+          0.00251,
+          0.00056
+        ],
+        [
+          0.04433,
+          0.05917,
+          0.03949,
+          0.01757,
+          0.00586,
+          0.00157,
+          0.00035
+        ],
+        [
+          0.02071,
+          0.02764,
+          0.01845,
+          0.00821,
+          0.00274,
+          0.00073,
+          0.00016
+        ],
+        [
+          0.00774,
+          0.01033,
+          0.00689,
+          0.00307,
+          0.00102,
+          0.00027,
+          6e-05
+        ],
+        [
+          0.00241,
+          0.00322,
+          0.00215,
+          0.00096,
+          0.00032,
+          9e-05,
+          2e-05
+        ]
+      ],
+      "prob_home_win": 0.4536,
+      "prob_draw": 0.3163,
+      "prob_away_win": 0.23,
+      "over_under": {
+        "0.5": {
+          "over": 0.9143,
+          "under": 0.0857
+        },
+        "1.5": {
+          "over": 0.8735,
+          "under": 0.1265
+        },
+        "2.5": {
+          "over": 0.6194,
+          "under": 0.3806
+        },
+        "3.5": {
+          "over": 0.396,
+          "under": 0.604
+        },
+        "4.5": {
+          "over": 0.2171,
+          "under": 0.7829
+        }
+      },
+      "btts_prob": 0.6675,
+      "home_clean_sheet": 0.2633,
+      "away_clean_sheet": 0.1549,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1466
+        ],
+        [
+          "2-1",
+          0.095
+        ],
+        [
+          "0-0",
+          0.0857
+        ],
+        [
+          "2-0",
+          0.0712
+        ],
+        [
+          "1-2",
+          0.0679
+        ],
+        [
+          "2-2",
+          0.0634
+        ],
+        [
+          "3-1",
+          0.0592
+        ],
+        [
+          "3-0",
+          0.0443
+        ],
+        [
+          "3-2",
+          0.0395
+        ],
+        [
+          "0-2",
+          0.0363
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.238,
+        "away": 1.224
+      },
+      "defence_ratings": {
+        "home": 1.091,
+        "away": 1.249
+      },
+      "date": "2026-05-03",
+      "time": "15:30",
+      "referee": "",
+      "cards": {
+        "expected_total": 3.578,
+        "expected_home": 1.696,
+        "expected_away": 1.882,
+        "over_under": {
+          "1.5": {
+            "over": 0.8721,
+            "under": 0.1279
+          },
+          "2.5": {
+            "over": 0.6933,
+            "under": 0.3067
+          },
+          "3.5": {
+            "over": 0.4801,
+            "under": 0.5199
+          },
+          "4.5": {
+            "over": 0.2894,
+            "under": 0.7106
+          },
+          "5.5": {
+            "over": 0.1529,
+            "under": 0.8471
+          },
+          "6.5": {
+            "over": 0.0715,
+            "under": 0.9285
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-24",
-      "home": "Sunderland",
-      "away": "Nottm Forest",
-      "market": "1X2",
-      "pick": "draw",
-      "confidence": "MEDIUM",
-      "modelProb": 0.4032,
-      "edge": 0.1063,
-      "odds": 3.3,
-      "result": null,
-      "outcome": null
+      "home_team": "Aston Villa",
+      "away_team": "Tottenham",
+      "lambda_home": 1.527,
+      "lambda_away": 1.155,
+      "scoreline_matrix": [
+        [
+          0.12188,
+          0.02575,
+          0.0457,
+          0.0176,
+          0.00508,
+          0.00117,
+          0.00023
+        ],
+        [
+          0.05122,
+          0.17421,
+          0.06979,
+          0.02687,
+          0.00776,
+          0.00179,
+          0.00035
+        ],
+        [
+          0.07986,
+          0.09225,
+          0.05328,
+          0.02052,
+          0.00592,
+          0.00137,
+          0.00026
+        ],
+        [
+          0.04065,
+          0.04696,
+          0.02712,
+          0.01044,
+          0.00302,
+          0.0007,
+          0.00013
+        ],
+        [
+          0.01552,
+          0.01793,
+          0.01035,
+          0.00399,
+          0.00115,
+          0.00027,
+          5e-05
+        ],
+        [
+          0.00474,
+          0.00547,
+          0.00316,
+          0.00122,
+          0.00035,
+          8e-05,
+          2e-05
+        ],
+        [
+          0.00121,
+          0.00139,
+          0.0008,
+          0.00031,
+          9e-05,
+          2e-05,
+          0.0
+        ]
+      ],
+      "prob_home_win": 0.4046,
+      "prob_draw": 0.361,
+      "prob_away_win": 0.2343,
+      "over_under": {
+        "0.5": {
+          "over": 0.8781,
+          "under": 0.1219
+        },
+        "1.5": {
+          "over": 0.8012,
+          "under": 0.1988
+        },
+        "2.5": {
+          "over": 0.5014,
+          "under": 0.4986
+        },
+        "3.5": {
+          "over": 0.2811,
+          "under": 0.7189
+        },
+        "4.5": {
+          "over": 0.1334,
+          "under": 0.8666
+        }
+      },
+      "btts_prob": 0.5894,
+      "home_clean_sheet": 0.3151,
+      "away_clean_sheet": 0.2174,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1742
+        ],
+        [
+          "0-0",
+          0.1219
+        ],
+        [
+          "2-1",
+          0.0923
+        ],
+        [
+          "2-0",
+          0.0799
+        ],
+        [
+          "1-2",
+          0.0698
+        ],
+        [
+          "2-2",
+          0.0533
+        ],
+        [
+          "1-0",
+          0.0512
+        ],
+        [
+          "3-1",
+          0.047
+        ],
+        [
+          "0-2",
+          0.0457
+        ],
+        [
+          "3-0",
+          0.0406
+        ]
+      ],
+      "attack_ratings": {
+        "home": 0.972,
+        "away": 0.858
+      },
+      "defence_ratings": {
+        "home": 1.346,
+        "away": 1.3
+      },
+      "date": "2026-05-03",
+      "time": "19:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 3.529,
+        "expected_home": 1.235,
+        "expected_away": 2.294,
+        "over_under": {
+          "1.5": {
+            "over": 0.8671,
+            "under": 0.1329
+          },
+          "2.5": {
+            "over": 0.6845,
+            "under": 0.3155
+          },
+          "3.5": {
+            "over": 0.4696,
+            "under": 0.5304
+          },
+          "4.5": {
+            "over": 0.28,
+            "under": 0.72
+          },
+          "5.5": {
+            "over": 0.1462,
+            "under": 0.8538
+          },
+          "6.5": {
+            "over": 0.0675,
+            "under": 0.9325
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-03-21",
-      "home": "Manchester City",
-      "away": "Crystal Palace",
-      "market": "O/U",
-      "pick": "Over 2.5",
-      "confidence": "MEDIUM",
-      "modelProb": 0.6484,
-      "edge": null,
-      "odds": null,
-      "result": null,
-      "outcome": null
+      "home_team": "Chelsea",
+      "away_team": "Nottm Forest",
+      "lambda_home": 2.253,
+      "lambda_away": 1.242,
+      "scoreline_matrix": [
+        [
+          0.0685,
+          0.00018,
+          0.02361,
+          0.00977,
+          0.00303,
+          0.00075,
+          0.00016
+        ],
+        [
+          0.03117,
+          0.12355,
+          0.0532,
+          0.02201,
+          0.00683,
+          0.0017,
+          0.00035
+        ],
+        [
+          0.07774,
+          0.09652,
+          0.05992,
+          0.0248,
+          0.0077,
+          0.00191,
+          0.0004
+        ],
+        [
+          0.05838,
+          0.07248,
+          0.04499,
+          0.01862,
+          0.00578,
+          0.00143,
+          0.0003
+        ],
+        [
+          0.03288,
+          0.04082,
+          0.02534,
+          0.01049,
+          0.00325,
+          0.00081,
+          0.00017
+        ],
+        [
+          0.01481,
+          0.01839,
+          0.01141,
+          0.00472,
+          0.00147,
+          0.00036,
+          8e-05
+        ],
+        [
+          0.00556,
+          0.0069,
+          0.00429,
+          0.00177,
+          0.00055,
+          0.00014,
+          3e-05
+        ]
+      ],
+      "prob_home_win": 0.5608,
+      "prob_draw": 0.2742,
+      "prob_away_win": 0.165,
+      "over_under": {
+        "0.5": {
+          "over": 0.9315,
+          "under": 0.0685
+        },
+        "1.5": {
+          "over": 0.9001,
+          "under": 0.0999
+        },
+        "2.5": {
+          "over": 0.6752,
+          "under": 0.3248
+        },
+        "3.5": {
+          "over": 0.4574,
+          "under": 0.5426
+        },
+        "4.5": {
+          "over": 0.2671,
+          "under": 0.7329
+        }
+      },
+      "btts_prob": 0.6735,
+      "home_clean_sheet": 0.289,
+      "away_clean_sheet": 0.106,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1236
+        ],
+        [
+          "2-1",
+          0.0965
+        ],
+        [
+          "2-0",
+          0.0777
+        ],
+        [
+          "3-1",
+          0.0725
+        ],
+        [
+          "0-0",
+          0.0685
+        ],
+        [
+          "2-2",
+          0.0599
+        ],
+        [
+          "3-0",
+          0.0584
+        ],
+        [
+          "1-2",
+          0.0532
+        ],
+        [
+          "3-2",
+          0.045
+        ],
+        [
+          "4-1",
+          0.0408
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.288,
+        "away": 0.911
+      },
+      "defence_ratings": {
+        "home": 1.364,
+        "away": 1.448
+      },
+      "date": "2026-05-04",
+      "time": "15:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 4.377,
+        "expected_home": 2.235,
+        "expected_away": 2.142,
+        "over_under": {
+          "1.5": {
+            "over": 0.9324,
+            "under": 0.0676
+          },
+          "2.5": {
+            "over": 0.8121,
+            "under": 0.1879
+          },
+          "3.5": {
+            "over": 0.6365,
+            "under": 0.3635
+          },
+          "4.5": {
+            "over": 0.4444,
+            "under": 0.5556
+          },
+          "5.5": {
+            "over": 0.2762,
+            "under": 0.7238
+          },
+          "6.5": {
+            "over": 0.1535,
+            "under": 0.8465
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-03-21",
-      "home": "Manchester City",
-      "away": "Crystal Palace",
-      "market": "BTTS",
-      "pick": "BTTS Yes",
-      "confidence": "MEDIUM",
-      "modelProb": 0.621,
-      "edge": null,
-      "odds": null,
-      "result": null,
-      "outcome": null
+      "home_team": "Everton",
+      "away_team": "Manchester City",
+      "lambda_home": 1.096,
+      "lambda_away": 1.838,
+      "scoreline_matrix": [
+        [
+          0.10087,
+          0.05061,
+          0.09013,
+          0.05521,
+          0.02536,
+          0.00932,
+          0.00285
+        ],
+        [
+          0.01101,
+          0.15497,
+          0.09876,
+          0.06049,
+          0.02779,
+          0.01021,
+          0.00313
+        ],
+        [
+          0.03205,
+          0.05889,
+          0.0541,
+          0.03314,
+          0.01522,
+          0.0056,
+          0.00171
+        ],
+        [
+          0.0117,
+          0.02151,
+          0.01976,
+          0.0121,
+          0.00556,
+          0.00204,
+          0.00063
+        ],
+        [
+          0.00321,
+          0.00589,
+          0.00541,
+          0.00332,
+          0.00152,
+          0.00056,
+          0.00017
+        ],
+        [
+          0.0007,
+          0.00129,
+          0.00119,
+          0.00073,
+          0.00033,
+          0.00012,
+          4e-05
+        ],
+        [
+          0.00013,
+          0.00024,
+          0.00022,
+          0.00013,
+          6e-05,
+          2e-05,
+          1e-05
+        ]
+      ],
+      "prob_home_win": 0.1778,
+      "prob_draw": 0.3237,
+      "prob_away_win": 0.4985,
+      "over_under": {
+        "0.5": {
+          "over": 0.8991,
+          "under": 0.1009
+        },
+        "1.5": {
+          "over": 0.8375,
+          "under": 0.1625
+        },
+        "2.5": {
+          "over": 0.5604,
+          "under": 0.4396
+        },
+        "3.5": {
+          "over": 0.3358,
+          "under": 0.6642
+        },
+        "4.5": {
+          "over": 0.1711,
+          "under": 0.8289
+        }
+      },
+      "btts_prob": 0.6069,
+      "home_clean_sheet": 0.1597,
+      "away_clean_sheet": 0.3344,
+      "correct_scores": [
+        [
+          "1-1",
+          0.155
+        ],
+        [
+          "0-0",
+          0.1009
+        ],
+        [
+          "1-2",
+          0.0988
+        ],
+        [
+          "0-2",
+          0.0901
+        ],
+        [
+          "1-3",
+          0.0605
+        ],
+        [
+          "2-1",
+          0.0589
+        ],
+        [
+          "0-3",
+          0.0552
+        ],
+        [
+          "2-2",
+          0.0541
+        ],
+        [
+          "0-1",
+          0.0506
+        ],
+        [
+          "2-3",
+          0.0331
+        ]
+      ],
+      "attack_ratings": {
+        "home": 0.929,
+        "away": 1.42
+      },
+      "defence_ratings": {
+        "home": 1.294,
+        "away": 0.975
+      },
+      "date": "2026-05-04",
+      "time": "20:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 3.966,
+        "expected_home": 1.824,
+        "expected_away": 2.142,
+        "over_under": {
+          "1.5": {
+            "over": 0.9059,
+            "under": 0.0941
+          },
+          "2.5": {
+            "over": 0.7569,
+            "under": 0.2431
+          },
+          "3.5": {
+            "over": 0.5599,
+            "under": 0.4401
+          },
+          "4.5": {
+            "over": 0.3645,
+            "under": 0.6355
+          },
+          "5.5": {
+            "over": 0.2096,
+            "under": 0.7904
+          },
+          "6.5": {
+            "over": 0.1072,
+            "under": 0.8928
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Chelsea",
-      "away": "Manchester United",
-      "market": "O/U",
-      "pick": "Over 2.5",
-      "confidence": "HIGH",
-      "modelProb": 0.6819,
-      "edge": 0.0743,
-      "odds": 1.55,
-      "result": "0-1",
-      "outcome": "loss"
+      "home_team": "Liverpool",
+      "away_team": "Chelsea",
+      "lambda_home": 2.016,
+      "lambda_away": 1.608,
+      "scoreline_matrix": [
+        [
+          0.06528,
+          0.00472,
+          0.03469,
+          0.01859,
+          0.00747,
+          0.0024,
+          0.00064
+        ],
+        [
+          0.01568,
+          0.12544,
+          0.06994,
+          0.03748,
+          0.01506,
+          0.00484,
+          0.0013
+        ],
+        [
+          0.05456,
+          0.08771,
+          0.07051,
+          0.03778,
+          0.01519,
+          0.00488,
+          0.00131
+        ],
+        [
+          0.03667,
+          0.05895,
+          0.04739,
+          0.02539,
+          0.01021,
+          0.00328,
+          0.00088
+        ],
+        [
+          0.01848,
+          0.02971,
+          0.02388,
+          0.0128,
+          0.00514,
+          0.00165,
+          0.00044
+        ],
+        [
+          0.00745,
+          0.01198,
+          0.00963,
+          0.00516,
+          0.00207,
+          0.00067,
+          0.00018
+        ],
+        [
+          0.0025,
+          0.00403,
+          0.00324,
+          0.00173,
+          0.0007,
+          0.00022,
+          6e-05
+        ]
+      ],
+      "prob_home_win": 0.4346,
+      "prob_draw": 0.2925,
+      "prob_away_win": 0.2729,
+      "over_under": {
+        "0.5": {
+          "over": 0.9347,
+          "under": 0.0653
+        },
+        "1.5": {
+          "over": 0.9143,
+          "under": 0.0857
+        },
+        "2.5": {
+          "over": 0.6996,
+          "under": 0.3004
+        },
+        "3.5": {
+          "over": 0.4867,
+          "under": 0.5133
+        },
+        "4.5": {
+          "over": 0.2938,
+          "under": 0.7062
+        }
+      },
+      "btts_prob": 0.7309,
+      "home_clean_sheet": 0.2006,
+      "away_clean_sheet": 0.1338,
+      "correct_scores": [
+        [
+          "1-1",
+          0.1254
+        ],
+        [
+          "2-1",
+          0.0877
+        ],
+        [
+          "2-2",
+          0.0705
+        ],
+        [
+          "1-2",
+          0.0699
+        ],
+        [
+          "0-0",
+          0.0653
+        ],
+        [
+          "3-1",
+          0.0589
+        ],
+        [
+          "2-0",
+          0.0546
+        ],
+        [
+          "3-2",
+          0.0474
+        ],
+        [
+          "2-3",
+          0.0378
+        ],
+        [
+          "1-3",
+          0.0375
+        ]
+      ],
+      "attack_ratings": {
+        "home": 1.224,
+        "away": 1.288
+      },
+      "defence_ratings": {
+        "home": 1.249,
+        "away": 1.364
+      },
+      "date": "2026-05-09",
+      "time": "12:30",
+      "referee": "",
+      "cards": {
+        "expected_total": 3.765,
+        "expected_home": 1.118,
+        "expected_away": 2.647,
+        "over_under": {
+          "1.5": {
+            "over": 0.8896,
+            "under": 0.1104
+          },
+          "2.5": {
+            "over": 0.7254,
+            "under": 0.2746
+          },
+          "3.5": {
+            "over": 0.5193,
+            "under": 0.4807
+          },
+          "4.5": {
+            "over": 0.3254,
+            "under": 0.6746
+          },
+          "5.5": {
+            "over": 0.1793,
+            "under": 0.8207
+          },
+          "6.5": {
+            "over": 0.0877,
+            "under": 0.9123
+          }
+        },
+        "referee_factor": 1.0
+      }
     },
     {
-      "mw": 33,
-      "date": "2026-03-21",
-      "home": "Manchester City",
-      "away": "Crystal Palace",
-      "market": "1X2",
-      "pick": "Home Win",
-      "confidence": "MEDIUM",
-      "modelProb": 0.6149,
-      "edge": null,
-      "odds": null,
-      "result": null,
-      "outcome": null
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Tottenham",
-      "away": "Brighton",
-      "market": "O/U",
-      "pick": "Under 2.5",
-      "confidence": "MEDIUM",
-      "modelProb": 0.5347,
-      "edge": 0.0931,
-      "odds": 2.15,
-      "result": "2-2",
-      "outcome": "loss"
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Aston Villa",
-      "away": "Sunderland",
-      "market": "O/U",
-      "pick": "Under 2.5",
-      "confidence": "MEDIUM",
-      "modelProb": 0.5616,
-      "edge": 0.0616,
-      "odds": 1.98,
-      "result": "4-3",
-      "outcome": "loss"
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-20",
-      "home": "Crystal Palace",
-      "away": "West Ham",
-      "market": "1X2",
-      "pick": "home_win",
-      "confidence": "MEDIUM",
-      "modelProb": 0.4634,
-      "edge": 0.0584,
-      "odds": 2.46,
-      "result": "0-0",
-      "outcome": "loss"
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Nottm Forest",
-      "away": "Burnley",
-      "market": "1X2",
-      "pick": "draw",
-      "confidence": "LOW",
-      "modelProb": 0.324,
-      "edge": 0.1033,
-      "odds": 4.5,
-      "result": "4-1",
-      "outcome": "loss"
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-19",
-      "home": "Everton",
-      "away": "Liverpool",
-      "market": "O/U",
-      "pick": "Over 2.5",
-      "confidence": "MEDIUM",
-      "modelProb": 0.5519,
-      "edge": 0.0544,
-      "odds": 2.0,
-      "result": "1-2",
-      "outcome": "win"
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-19",
-      "home": "Manchester City",
-      "away": "Arsenal",
-      "market": "1X2",
-      "pick": "away_win",
-      "confidence": "LOW",
-      "modelProb": 0.3161,
-      "edge": 0.098,
-      "odds": 4.6,
-      "result": "2-1",
-      "outcome": "loss"
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-18",
-      "home": "Newcastle United",
-      "away": "Bournemouth",
-      "market": "1X2",
-      "pick": "draw",
-      "confidence": "LOW",
-      "modelProb": 0.3458,
-      "edge": 0.0958,
-      "odds": 4.0,
-      "result": "1-2",
-      "outcome": "loss"
-    },
-    {
-      "mw": 33,
-      "date": "2026-04-19",
-      "home": "Everton",
-      "away": "Liverpool",
-      "market": "1X2",
-      "pick": "draw",
-      "confidence": "LOW",
-      "modelProb": 0.3636,
-      "edge": 0.0781,
-      "odds": 3.5,
-      "result": "1-2",
-      "outcome": "loss"
+      "home_team": "Sunderland",
+      "away_team": "Manchester United",
+      "lambda_home": 1.043,
+      "lambda_away": 1.858,
+      "scoreline_matrix": [
+        [
+          0.10232,
+          0.05525,
+          0.09519,
+          0.05897,
+          0.0274,
+          0.01018,
+          0.00315
+        ],
+        [
+          0.01029,
+          0.15404,
+          0.09928,
+          0.0615,
+          0.02858,
+          0.01062,
+          0.00329
+        ],
+        [
+          0.02998,
+          0.05571,
+          0.05177,
+          0.03207,
+          0.0149,
+          0.00554,
+          0.00172
+        ],
+        [
+          0.01042,
+          0.01937,
+          0.018,
+          0.01115,
+          0.00518,
+          0.00193,
+          0.0006
+        ],
+        [
+          0.00272,
+          0.00505,
+          0.00469,
+          0.00291,
+          0.00135,
+          0.0005,
+          0.00016
+        ],
+        [
+          0.00057,
+          0.00105,
+          0.00098,
+          0.00061,
+          0.00028,
+          0.0001,
+          3e-05
+        ],
+        [
+          0.0001,
+          0.00018,
+          0.00017,
+          0.00011,
+          5e-05,
+          2e-05,
+          1e-05
+        ]
+      ],
+      "prob_home_win": 0.1632,
+      "prob_draw": 0.3207,
+      "prob_away_win": 0.516,
+      "over_under": {
+        "0.5": {
+          "over": 0.8977,
+          "under": 0.1023
+        },
+        "1.5": {
+          "over": 0.8321,
+          "under": 0.1679
+        },
+        "2.5": {
+          "over": 0.5529,
+          "under": 0.4471
+        },
+        "3.5": {
+          "over": 0.3286,
+          "under": 0.6714
+        },
+        "4.5": {
+          "over": 0.1658,
+          "under": 0.8342
+        }
+      },
+      "btts_prob": 0.5935,
+      "home_clean_sheet": 0.1564,
+      "away_clean_sheet": 0.3525,
+      "correct_scores": [
+        [
+          "1-1",
+          0.154
+        ],
+        [
+          "0-0",
+          0.1023
+        ],
+        [
+          "1-2",
+          0.0993
+        ],
+        [
+          "0-2",
+          0.0952
+        ],
+        [
+          "1-3",
+          0.0615
+        ],
+        [
+          "0-3",
+          0.059
+        ],
+        [
+          "2-1",
+          0.0557
+        ],
+        [
+          "0-1",
+          0.0552
+        ],
+        [
+          "2-2",
+          0.0518
+        ],
+        [
+          "2-3",
+          0.0321
+        ]
+      ],
+      "attack_ratings": {
+        "home": 0.791,
+        "away": 1.238
+      },
+      "defence_ratings": {
+        "home": 1.501,
+        "away": 1.091
+      },
+      "date": "2026-05-09",
+      "time": "15:00",
+      "referee": "",
+      "cards": {
+        "expected_total": 4.201,
+        "expected_home": 2.059,
+        "expected_away": 2.142,
+        "over_under": {
+          "1.5": {
+            "over": 0.9221,
+            "under": 0.0779
+          },
+          "2.5": {
+            "over": 0.7899,
+            "under": 0.2101
+          },
+          "3.5": {
+            "over": 0.6048,
+            "under": 0.3952
+          },
+          "4.5": {
+            "over": 0.4104,
+            "under": 0.5896
+          },
+          "5.5": {
+            "over": 0.247,
+            "under": 0.753
+          },
+          "6.5": {
+            "over": 0.1327,
+            "under": 0.8673
+          }
+        },
+        "referee_factor": 1.0
+      }
     }
   ]
 }
